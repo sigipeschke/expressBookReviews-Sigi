@@ -1,1 +1,1 @@
-# coding-project-template
+# EdX Node + Express Final Project
